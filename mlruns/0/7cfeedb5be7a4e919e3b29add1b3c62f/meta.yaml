@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swarajyabhanja/Desktop/MLOps_Assignments/mlruns/0/7cfeedb5be7a4e919e3b29add1b3c62f/artifacts
+end_time: 1723019126544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cfeedb5be7a4e919e3b29add1b3c62f
+run_name: exultant-hen-272
+run_uuid: 7cfeedb5be7a4e919e3b29add1b3c62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723019120345
+status: 3
+tags: []
+user_id: swarajyabhanja

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swarajyabhanja/Desktop/MLOps_Assignments/mlruns/0/7ccf79592e8041abb3c772ceb2470189/artifacts
+end_time: 1722935124849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ccf79592e8041abb3c772ceb2470189
+run_name: dapper-mole-206
+run_uuid: 7ccf79592e8041abb3c772ceb2470189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722935111410
+status: 3
+tags: []
+user_id: swarajyabhanja

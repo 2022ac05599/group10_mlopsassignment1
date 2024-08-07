@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swarajyabhanja/Desktop/MLOps_Assignments/mlruns/0/19167ec700e84a65a417f7600fd44823/artifacts
+end_time: 1723020455244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19167ec700e84a65a417f7600fd44823
+run_name: secretive-gnu-138
+run_uuid: 19167ec700e84a65a417f7600fd44823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723020446100
+status: 3
+tags: []
+user_id: swarajyabhanja

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swarajyabhanja/Desktop/MLOps_Assignments/mlruns/0/e2dcd05f15ad419ba139495e254116a4/artifacts
+end_time: 1723020345863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2dcd05f15ad419ba139495e254116a4
+run_name: righteous-pug-175
+run_uuid: e2dcd05f15ad419ba139495e254116a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723020341635
+status: 3
+tags: []
+user_id: swarajyabhanja

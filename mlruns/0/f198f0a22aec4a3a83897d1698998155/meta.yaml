@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swarajyabhanja/Desktop/MLOps_Assignments/mlruns/0/f198f0a22aec4a3a83897d1698998155/artifacts
+end_time: 1723020463109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f198f0a22aec4a3a83897d1698998155
+run_name: thoughtful-rat-896
+run_uuid: f198f0a22aec4a3a83897d1698998155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723020455283
+status: 3
+tags: []
+user_id: swarajyabhanja

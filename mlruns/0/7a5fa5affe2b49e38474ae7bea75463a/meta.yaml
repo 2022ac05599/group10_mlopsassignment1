@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swarajyabhanja/Desktop/MLOps_Assignments/mlruns/0/7a5fa5affe2b49e38474ae7bea75463a/artifacts
+end_time: 1723019120304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a5fa5affe2b49e38474ae7bea75463a
+run_name: marvelous-carp-670
+run_uuid: 7a5fa5affe2b49e38474ae7bea75463a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723019114108
+status: 3
+tags: []
+user_id: swarajyabhanja
